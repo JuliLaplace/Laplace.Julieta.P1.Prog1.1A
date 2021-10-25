@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1635164516 source:c:\users\julieta\desktop\laplace.julieta.p1.prog1.1a\parcialprogramacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
